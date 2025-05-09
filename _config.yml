@@ -8,14 +8,14 @@
 # Site Settings
 title                    : "Yuan Dong (董源)'s Homepage"
 description              : "Research focuses on Computer Vision and Medical Image Processing "
-repository               : "fdyuandong.github.io"
+repository               : "https://fdyuandong.github.io/yuandong/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : GpErKvl4BeKyq6GkMv9wn_xnNAxxrp0tA_XbRA3y3sQ
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -27,10 +27,10 @@ author:
   location         : "HangZhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vokVMZoAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=vokVMZoAAAAJ"
   email            : "yuandong15@fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://fdyuandong.github.io"
+  uri              : "https://fdyuandong.github.io/yuandong/"
   bitbucket        :
   codepen          :
   dribbble         :
